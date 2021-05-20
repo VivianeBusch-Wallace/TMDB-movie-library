@@ -8,8 +8,11 @@ We decided to go with a movie library project which you can test here: https://t
 ## The Team
 
 We all are students for the fullstack webdevelopment course at the Digital Career Institute.
+
 Our Project Manager and co-developer: Sven Wacker
+
 Head Developer: Roman Lebedenko
+
 Co-Developers: Ruben Sinzig, Maryam Payenda, Viviane Wei Busch-Wallace
 
 ## Features And Function
@@ -33,6 +36,10 @@ By clicking the heart button you save the selected movie into your favorites lis
 
 ![Favorites page](src/images/screenshots/movie-library-favorites-screenshot.png)
 Clicking on the red heart will remove the movie from your favorite list.
+
+## Where the idea came from
+
+Roman was the one who suggested it and we all really liked it. He showed us this ![Example](https://dnotrad.github.io/movies/#/trends) and found this ![API](https://www.themoviedb.org/)
 
 ## Final Thoughts
 
