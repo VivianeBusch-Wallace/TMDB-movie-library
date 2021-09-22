@@ -1,9 +1,12 @@
 # tmbd-movie-library
 
-## About
+## About The Project
 
 This is a group project to get experience in working as a web development team.
 We decided to go with a movie library project which you can test here: https://tmbd-movie-library.netlify.app/
+
+We used SCSS and Java Script on the DOM, and Java Script to fetch data from our API.
+Our pages are also fully responsive and include a hamburger menu for smaller devices or screen sizes.
 
 ## The Team
 
@@ -39,9 +42,9 @@ Clicking on the red heart will remove the movie from your favorite list.
 
 ## Where the idea came from
 
-Roman was the one who suggested it and we all really liked it. He showed us this ![Example](https://dnotrad.github.io/movies/#/trends) and found this ![API](https://www.themoviedb.org/)
+Roman was the one who suggested it and we all really liked it. He showed us this [Example](https://dnotrad.github.io/movies/#/trends) and found this [API](https://www.themoviedb.org/)
 
 ## Final Thoughts
 
-This project was our very first group project, we had in total only 3.5 days to get finalize our work. For us it was a great practice, we gained a lot of experience and we felt that it was very nice to work together in a team.
-We hope you like the result, it's the accumulation of our hard work (incl. some extra hours by our developers).
+This project was our very first group project, we had in total only 3.5 days to finalize our work. For us it was a great practice, we gained a lot of experience especially working as a group with git. We felt that it was very nice to work together as a team.
+We hope you like the result, it's the accumulation of our hard work (incl. some extra hours by some of our developers).
